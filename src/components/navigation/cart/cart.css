@@ -1,0 +1,31 @@
+.Cart {
+    width: auto;
+    position: relative;
+    display: flex;
+    height: 60px; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;   
+    margin: 0 20px;
+}
+
+.Cart-counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.Cart-counter {
+    width: 20px;
+    height: 20px;
+    margin: -7px;
+    position: absolute;
+    text-align: center;
+    color: #2a628f;
+    line-height: 24px;
+    background-color: #fff;
+    border-radius: 100%;
+    font-size: 15px;
+    font-weight: 500;    
+    font-family: Montserrat;
+}  

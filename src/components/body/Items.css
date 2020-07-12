@@ -1,0 +1,60 @@
+.body {
+    margin: 40px auto 0;
+    position: relative;
+    width: 80%;
+}
+
+.items {
+    display: grid;
+    grid-template-columns: repeat(5, 270px);
+    column-gap: 2vw;
+    row-gap: 15px;
+    margin: 25px auto;
+}
+
+.bnav {
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.bnav h2 {
+    color: #4b93c8;
+}
+
+.bnav button {
+    border: none;
+    margin: 0 12px;
+    padding: 4px 10px;
+    color: #4b93c8;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 900;
+    outline: none;
+    text-transform: capitalize;
+}
+
+.bnav .activeB{
+    padding: 4px 8px;
+    border-radius: 100vw;
+    border: 2px solid #4b93c8;
+}
+
+.bnav button:hover {
+    cursor: pointer;
+}
+
+#leftarrow,
+#rightarrow {
+    padding: 4px 8px;
+    background-color: #f2f2f2;
+    margin: 0 4px;
+}
+
+#leftarrow:hover,
+#rightarrow:hover {
+    padding: 4px 8px;
+    background-color: #cacaca;
+    margin: 0 4px;
+}

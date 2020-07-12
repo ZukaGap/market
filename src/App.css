@@ -1,0 +1,16 @@
+.scroll {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    float: right;
+    position: sticky;
+    z-index: 2;
+    bottom: 50px;
+    right: 50px;
+    background-color: #2f678f;
+    border-radius: 100vw;
+}
+
+.scroll:hover {
+    background-color: #2d6d9b;
+}

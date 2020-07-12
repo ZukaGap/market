@@ -1,0 +1,122 @@
+[
+    {
+        "id" : "1",
+        "img" : "../IMG/700x700.png",
+        "name" : "Electric Planer Brandix KL370090G",
+        "watt" : "300 Watts",
+        "review" : "9",
+        "rate" : "4",
+        "priceD" : "749.00",
+        "condition" : "new",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "2",
+        "img" : "../IMG/700x700.png",
+        "name" : "Drill Screwdriver Bradix ALX7054",
+        "watt" : "200 Watts",
+        "review" : "9",
+        "rate" : "4",
+        "priceD" : "850.00",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "3",
+        "img" : "../IMG/700x700.png",
+        "name" : "Brandix Router Power Tool 2017ERXPK",
+        "watt" : "",
+        "review" : "9",
+        "rate" : "4",
+        "priceD" : "1700.00",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "4",
+        "img" : "../IMG/700x700.png",
+        "name" : "Brandix Pliers",
+        "watt" : "",
+        "review" : "4",
+        "rate" : "2",
+        "priceD" : "24.00",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "5",
+        "img" : "../IMG/700x700.png",
+        "name" : "Spanner Wrench",
+        "watt" : "",
+        "review" : "9",
+        "rate" : "4",
+        "priceD" : "19.00",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "6",
+        "img" : "../IMG700x700.png",
+        "name" : "Undefined Tool IRadix DPS3000SY",
+        "watt" : "2700 Watts",
+        "review" : "11",
+        "rate" : "5",
+        "priceD" : "1019.00",
+        "condition" : "hot",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "7",
+        "img" : "../IMG/700x700.png",
+        "name" : "Drill Series 3 Bradix KSR4590PQS",
+        "watt" : "1500 Watts",
+        "review" : "7",
+        "rate" : "3",
+        "priceD" : "1189.00",
+        "condition" : "sale",
+        "sale" : "true",
+        "newPrice" : "949.00"
+    },
+    {
+        "id" : "8",
+        "img" : "../IMG/700x700.png",
+        "name" : "Brandix Drilling Machine DM2019KW4",
+        "watt" : "4K Watts",
+        "review" : "7",
+        "rate" : "3",
+        "priceD" : "3199.00",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "9",
+        "img" : "../IMG/700x700.png",
+        "name" : "Water Hose 40CM",
+        "watt" : "",
+        "review" : "4",
+        "rate" : "3",
+        "priceD" : "15",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    },
+    {
+        "id" : "10",
+        "img" : "../IMG/700x700.png",
+        "name" : "Water Tap",
+        "watt" : "",
+        "review" : "11",
+        "rate" : "5",
+        "priceD" : "15",
+        "condition" : "old",
+        "sale" : "false",
+        "newPrice" : ""
+    }
+]
